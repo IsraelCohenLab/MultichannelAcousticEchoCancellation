@@ -7,6 +7,7 @@ Activating 'main.m' creates the figures that appear in the paper.
 ### Important:
 * Matlab R2022b is required
 * C compiler is required
-* the code uses two external code packages, please download them from their original source:
+* the code uses three external code packages, please download them from their original source:
   1. RIR Generator by Emanuël Habets: https://www.audiolabs-erlangen.de/fau/professor/habets/software/rir-generator
   2. Nonlinear Modeling of a Moving Coil Loudspeaker, by Stephen Thompson: https://www.mathworks.com/matlabcentral/fileexchange/121263-nonlinear-modeling-of-a-moving-coil-loudspeaker
+  3. Acoustical Domain for Simscape, by Stephen Thompson: https://www.mathworks.com/matlabcentral/fileexchange/109029-acoustical-domain-for-simscape
