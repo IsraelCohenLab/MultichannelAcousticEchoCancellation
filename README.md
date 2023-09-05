@@ -3,7 +3,8 @@ This folder contains the code for the following paper: "Multichannel Acoustic Ec
 Link to paper: TBD
 
 Activating 'main.m' creates the figures that appear in the paper.  
-Important:
+
+###Important:
 * Matlab R2022b is required
 * C compiler is required
 * the code uses two external code packages, please download them from their original source:
